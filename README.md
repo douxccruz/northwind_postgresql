@@ -5,7 +5,7 @@ Getting started:
 Manually
 Use the provided sql file nortwhind.sql in order to populate your database.
 
-With Docker and docker compose
+# With Docker and docker compose
 Pre-requirement: install docker and docker-compose
 https://www.docker.com/get-started
 
