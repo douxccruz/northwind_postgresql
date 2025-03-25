@@ -1,17 +1,18 @@
 # northwind_postgresql
-A simple sql script that will populate a database with the famous northwind example, adapted for postgres.
+Um script SQL simples que preencherá um banco de dados com o famoso exemplo northwind, adaptado para postgres.
 ![image](https://github.com/user-attachments/assets/09b1132a-6851-4efc-9c03-cb7d1128fcb2)
-Getting started:
-Manually
-Use the provided sql file nortwhind.sql in order to populate your database.
+Introdução:
+Manualmente
+Use o arquivo sql fornecido nortwhind.sql para preencher seu banco de dados.
 
 # With Docker and docker compose
-Pre-requirement: install docker and docker-compose
-https://www.docker.com/get-started
 
+Pré-requisito: instalar docker e docker-compose
+
+https://www.docker.com/get-started
 https://docs.docker.com/compose/install/
 
-1. Run docker-compose
+1. Execute docker-compose
 > docker-compose up
 ...
 ... Lots of messages...
